@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Patrik Zakat
-- 👀 I’m interested in Football, Video Games, Cars, Web Development
+- 👋 Hi, I’m Patrik Zakar
+- 👀 I’m interested in Football, Video Games, F1, Web Development
 - 🌱 I’m currently learning Business Informatics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: zakipepi@gmail.com
